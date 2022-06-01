@@ -1,0 +1,5 @@
+const IMAGE = {
+   
+}
+
+export {IMAGE}

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="418a86ed-905c-41ab-9663-bb671c64f088" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomDrawerContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/CustomDrawerContent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/CustomHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/appressaqueira/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/appressaqueira/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/LoginScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/auth/LoginScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawer/AreaEntrega.js" beforeDir="false" afterPath="$PROJECT_DIR$/drawer/AreaEntrega.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawer/Contato.js" beforeDir="false" afterPath="$PROJECT_DIR$/drawer/Contato.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawer/ListaPedidos.js" beforeDir="false" afterPath="$PROJECT_DIR$/drawer/ListaPedidos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawer/MeusPedidos.js" beforeDir="false" afterPath="$PROJECT_DIR$/drawer/MeusPedidos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawer/QuemSomos.js" beforeDir="false" afterPath="$PROJECT_DIR$/drawer/QuemSomos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/carrinhoModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/carrinhoModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/authReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/carrinhoReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/carrinhoReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/listaProdutosReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/listaProdutosReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/mapsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/mapsReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/Buscar.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/Buscar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/CadastrarCategoria.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/CadastrarCategoria.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/CadastroProduto.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/CadastroProduto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/Carrinho.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/Carrinho.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/FinalizarPedido.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/FinalizarPedido.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/GerenciarPedidos.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/GerenciarPedidos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/HomeScreenDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/HomeScreenDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/ListaCategorias.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/ListaCategorias.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/ListaCategoriasAdmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/ListaCategoriasAdmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/ListaProdutos.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/ListaProdutos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/ListaProdutosAdmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/ListaProdutosAdmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/Perfil.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/Perfil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/Produto.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/Produto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab/Promocao.js" beforeDir="false" afterPath="$PROJECT_DIR$/tab/Promocao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/StatusPedido.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/StatusPedido.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/Utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Utils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\DarlanBelaCarol\Desktop\Projeto Ressaqueira Novo\appRessaqueira\android\app\my-upload-key.keystore" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kpQ6Jyouy9Pr7SrOMH1owoWtcW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="ApkExportedModule" value="appRessaqueira" />
+    <property name="ExportedApkPath" value="C:\Users\DarlanBelaCarol\Desktop\Projeto Ressaqueira Novo\appRessaqueira\android\app\build\outputs\apk\release\app-release.apk" />
+    <property name="ExportedModule" value="appRessaqueira" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418a86ed-905c-41ab-9663-bb671c64f088" name="Default Changelist" comment="" />
+      <created>1594139083499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594139083499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606395356597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1606395356597" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
